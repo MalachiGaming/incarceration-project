@@ -189,6 +189,6 @@
     width: 750px;
     position: absolute;
     top: 0;
-    left: 225px;
+    left:calc(250px + 100vw - 1024px)
     border: none;
 }
