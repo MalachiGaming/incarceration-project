@@ -95,7 +95,7 @@
 /* This styles the heading in the 3D description */
 
 #content h2 {
-    font-size: 80px;
+    font-size: 60px;
     color: grey;
 }
 
@@ -185,8 +185,8 @@
 /* This styles the 3D object inserted in the aside container */
 
 #aSide model-viewer {
-    height: 600px;
-    width: 600px;
+    height: 1800px;
+    width: 1800px;
     position: absolute;
     top: 0;
     left: 0;
