@@ -185,8 +185,8 @@
 /* This styles the 3D object inserted in the aside container */
 
 #aSide model-viewer {
-    height: 1800px;
-    width: 1800px;
+    height: 750px;
+    width: 750px;
     position: absolute;
     top: 0;
     left: 0;
